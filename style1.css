@@ -1,0 +1,96 @@
+html {
+  background-color: #eed;
+  font-family: sans-serif;
+  font-size: 64.5%;
+}
+
+.wrapper {
+  font-size: 1.5rem;
+  height: 500px;
+  margin: 0 auto;
+  width: 500px;
+}
+
+canvas {
+  background-image: url("https://assets.codepen.io/215128/snakesAndLaddersBoard.jpg");
+  border: 5px solid grey;
+  border-radius: 7px;
+  height: 500px;
+  width: 500px;
+}
+
+.playerYou .wrapper {
+  color: #8a0022;
+}
+.playerYou canvas {
+  border-color: #f36;
+}
+.playerYou #diceThrow {
+  background-color: #f361;
+  background-blend-mode: multiply;
+  border-color: #d60036;
+}
+
+.playerAutoBot .wrapper {
+  color: #3a480e;
+}
+.playerAutoBot canvas {
+  border-color: #8a2;
+}
+.playerAutoBot #diceThrow {
+  background-color: #8a22;
+  background-blend-mode: multiply;
+  border-color: #556a15;
+}
+
+#diceThrow {
+  background-image: url("https://assets.codepen.io/215128/diceSpots.png");
+  background-size: 50px;
+  border: 2px solid black;
+  border-radius: 7px;
+  cursor: pointer;
+  display: inline-block;
+  height: 50px;
+  width: 50px;
+}
+#diceThrow.s6 {
+  background-position: 0 0;
+}
+#diceThrow.s5 {
+  background-position: 0 -50px;
+}
+#diceThrow.s4 {
+  background-position: 0 -100px;
+}
+#diceThrow.s3 {
+  background-position: 0 -150px;
+}
+#diceThrow.s2 {
+  background-position: 0 -200px;
+}
+#diceThrow.s1 {
+  background-position: 0 -250px;
+}
+
+.buttonWrapper {
+  display: flex;
+  margin: 15px 15px;
+}
+
+button {
+  border-radius: 7px;
+  margin-left: 100px;
+  padding: 10px 30px;
+}
+
+.hidden {
+  display: none;
+}
+
+h1 {
+  margin-bottom: 5px;
+}
+
+h2 {
+  margin-top: 0;
+}
