@@ -1,2 +1,13 @@
-# Portfolio
+# Responsive Portfolio Website 
+
+Website Using HTML, CSS, SCSS and JavaScript, with a beautiful user interface.
+
+## Website contains: 
+
+- Home
+- About Me
+- Skills
+- Qualification
+- Portfolio
+- Contact
 - open website ["https://mishraji566.github.io/Portfolio/"] 
