@@ -11,4 +11,9 @@ Website Using HTML, CSS, SCSS and JavaScript, with a wonderful user interface.
 - Portfolio
 - Game (Working on it)
 - Contact
-- open website ["https://mishraji566.github.io/Portfolio/"] 
+
+   [GO TO Website](https://mishraji566.github.io/Portfolio)
+
+If you found the code useful, please feel free to fork it and modify it as you see fit.
+
+ - Inspired Design by freecodecamp
