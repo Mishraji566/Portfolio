@@ -9,5 +9,6 @@ Website Using HTML, CSS, SCSS and JavaScript, with a beautiful user interface.
 - Skills
 - Qualification
 - Portfolio
+- Game (Working on it)
 - Contact
 - open website ["https://mishraji566.github.io/Portfolio/"] 
