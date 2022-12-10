@@ -1,6 +1,6 @@
 # Responsive Portfolio Website 
 
-Website Using HTML, CSS, SCSS and JavaScript, with a beautiful user interface.
+Website Using HTML, CSS, SCSS and JavaScript, with a wonderful user interface.
 
 ## Website contains: 
 
