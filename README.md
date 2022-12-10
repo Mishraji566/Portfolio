@@ -17,3 +17,4 @@ Website Using HTML, CSS, SCSS and JavaScript, with a wonderful user interface.
 If you found the code useful, please feel free to fork it and modify it as you see fit.
 
  - Inspired Design by freecodecamp.
+<p align="center"><b>© Created by Praveen Mishra</b></p?
